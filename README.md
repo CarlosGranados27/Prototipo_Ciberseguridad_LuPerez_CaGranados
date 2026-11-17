@@ -1,4 +1,3 @@
-```markdown
 # Prototipo Funcional de Gestión de Riesgos Informáticos - TRL 5
 ### Universidad Nacional Abierta y a Distancia (UNAD)
 **Curso:** Proyecto de Grado (Código: 202016907)  
